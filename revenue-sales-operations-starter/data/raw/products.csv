@@ -1,0 +1,7 @@
+product_id,product_name,category,annual_list_price_inr
+P001,CRM Essentials,CRM,120000
+P002,CRM Enterprise,CRM,420000
+P003,Workflow Automate,Automation,240000
+P004,Analytics Cloud,Analytics,300000
+P005,Support Desk,Service,180000
+P006,Security Suite,Security,360000
